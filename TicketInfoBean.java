@@ -11,18 +11,7 @@ public class TicketInfoBean {
 	String usage_Perc;
 	String reportd_Date ;
 	
-//	public TicketInfoBean(String priority, String incident_ID, String summary, String status, String assigned_Group,
-//	String appName, String relev_Perc, String usage_Perc, String reportd_Date) {
-//Priority = priority;
-//Incident_ID = incident_ID;
-//Summary = summary;
-//Status = status;
-//Assigned_Group = assigned_Group;
-//AppName = appName;
-//Relev_Perc = relev_Perc;
-//Usage_Perc = usage_Perc;
-//Reportd_Date = reportd_Date;
-//}
+
 	
 	public String getPriority() {
 		return priority;
